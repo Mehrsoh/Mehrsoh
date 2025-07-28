@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehrmanzar Sohrab</h1>
 <h3 align="center">Research Assistant</h3>
 
-- 🔭 I’m currently working on **pedo-transfer function (PTF)**
+- 🔭 I’m currently working on **pedo-transfer functions (PTFs)**
 
 - 📫 How to reach me **sohrab.mehrmanzar@atk.hun-ren.hu**
 
